@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+    line-height: 1.5;
+    font-family: sans-serif;
+    text-align: justify;
+    margin: 2em;
+    padding: 2em;
+    border: solid 1px;
+}
+
+h1{
+    text-align: center;
+    color: orange;
+}
+
+h2{
+    text-align:center;
+    color: blue;
+}
