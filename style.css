@@ -22,9 +22,25 @@ button{
     width: 150px;
     height: 40px;
     border-radius: 10px;
+    background-color: lightblue;
+    text-align: center;
+
+    display: block;
+    margin: auto;
 }
 
 button a{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: red;
+    text-decoration: none;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 10%;
+}
+
+header{
+    padding-top: 2em;
 }
